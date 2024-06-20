@@ -112,6 +112,9 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTtGcu3CULhh1-vzeEZfq23gCXTVStR1bsg&s" alt="Roboflow" style="width: 45px; height: 45px;"/>
 <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" />
+<img src="https://i1.wp.com/albertfattal.com/wp-content/uploads/2018/03/Tensorflow_logo.svg.png?resize=1200%2C1283&ssl=1" alt="TensorFlow" style="width: 45px; height: 45px;"/>
+<img src="https://th.bing.com/th/id/R.02e221d6156ec04ce51b07e0baba76fc?rik=hGdNGXX0ytCLYQ&riu=http%3a%2f%2fman.hubwiz.com%2fdocset%2fKeras.docset%2fContents%2fResources%2fDocuments%2fimg%2fkeras-logo-small-wb.png&ehk=87bsyycRuqmumGB3d7UdUoAB1LYbX%2fnegG5VRo8kS3g%3d&risl=&pid=ImgRaw&r=0" alt="Keras" style="width: 45px; height: 45px;"/>
+<img src="https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2016/04/kaggle-logo-transparent-300-1024x465.png" alt="Kaggle"  style="height: 45px;"/>
 
 ### Cloud Computing Tools
 
@@ -123,8 +126,8 @@
 
 | Learning Paths       | Link   |
 |----------------------|--------|
-| Mobile Development   | [Github](https://github.com/Attirely/Mobile-Development) |
-| Machine Learning     | [Github](https://github.com/Attirely/Machine-Learning) |
-| Cloud Computing      | [Github](https://github.com/Attirely/Cloud-Computing) |
+| Mobile Development   | <a href="https://github.com/Attirely/Mobile-Development"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square" alt="GitHub"></a> |
+| Machine Learning     | <a href="https://github.com/Attirely/Machine-Learning"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square" alt="GitHub"></a> |
+| Cloud Computing      | <a href="https://github.com/Attirely/Cloud-Computing"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square" alt="GitHub"></a> |
 
 </div>
